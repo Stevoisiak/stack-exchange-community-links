@@ -15,4 +15,8 @@ An unofficial list of Stack Exchange alternatives and offshoot chat communities.
 - [Code Golf and Coding Challenges Discord](https://discord.gg/WCxqfcR)
 - [Codidact Discord](https://discord.gg/WZ7aTst)
 - [Meta Discussion Discord](https://discord.gg/GeKffmx)
-- [sysadmin.chat](http://sysadmin.chat/)
+
+### Community Projects
+
+- [Dear Stack Exchange](https://dearstackexchange.com/) - An open letter to Stack Exchange from several of its moderators.
+- [The Stack Exchange Timeline](https://stackexchange-timeline.webflow.io/) - A timeline of major events for Stack Exchange and Stack Overflow.
