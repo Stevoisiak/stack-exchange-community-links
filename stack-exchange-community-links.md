@@ -1,4 +1,4 @@
-An unofficial list of Stack Exchange alternatives and offshoot chat communities.
+An unofficial list of Stack Exchange alternatives, offshoot chats, and community projects
 
 ### Stack Exchange Alternatives
 
