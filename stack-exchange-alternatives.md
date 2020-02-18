@@ -14,5 +14,5 @@ An unofficial list of Stack Exchange alternatives and offshoot chat communities.
 
 - [Code Golf and Coding Challenges Discord](https://discord.gg/WCxqfcR)
 - [Codidact Discord](https://discord.gg/WZ7aTst)
-- [Meta Discussion](https://discord.gg/GeKffmx)
+- [Meta Discussion Discord](https://discord.gg/GeKffmx)
 - [sysadmin.chat](http://sysadmin.chat/)
