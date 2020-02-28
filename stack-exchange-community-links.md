@@ -6,7 +6,7 @@ An unofficial list of Stack Exchange alternatives, offshoot chats, and community
 	- [Writing](https://writing.codidact.com/) - Writing Q&A. Running temporary software until Codidact is ready.
 - [TopAnswers](https://topanswers.xyz/)
 	- [C++](https://topanswers.xyz/cplusplus)
-	- [Code Golf](https://topanswers.xyz/codegolf) - Currently in invite-only Private Beta. 
+	- [Code Golf](https://topanswers.xyz/codegolf)
 	- [Databases](https://topanswers.xyz/databases)
 	- [Tex](https://topanswers.xyz/tex)
 
@@ -15,6 +15,7 @@ An unofficial list of Stack Exchange alternatives, offshoot chats, and community
 - [Code Golf and Coding Challenges Discord](https://discord.gg/WCxqfcR)
 - [Codidact Discord](https://discord.gg/WZ7aTst)
 - [Meta Discussion Discord](https://discord.gg/GeKffmx)
+- [TopAnswers](https://topanswers.xyz/) (Each community has a site-specific chat)
 
 ### Community Projects
 
