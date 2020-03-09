@@ -9,6 +9,7 @@ An unofficial list of Stack Exchange alternatives, offshoot chats, and community
 	- [Code Golf](https://topanswers.xyz/codegolf)
 	- [Databases](https://topanswers.xyz/databases)
 	- [Tex](https://topanswers.xyz/tex)
+	- [*nix](https://topanswers.xyz/nix) (Private beta, invite only)
 
 ### Chat
 
