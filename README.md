@@ -52,5 +52,5 @@ An unofficial list of Stack Exchange alternatives, offshoot chats, and community
 
 ### Community Projects
 
-- [Dear Stack Exchange](https://meta.stackexchange.com/questions/334575/dear-stack-exchange-a-statement-and-a-letter-from-your-moderators) - An open letter to Stack Exchange from several of its moderators.
+- [Dear Stack Exchange](https://dearstack.artofcode.co.uk/) - An open letter to Stack Exchange from several of its moderators.
 - [The Stack Exchange Timeline](https://stackexchange-timeline.webflow.io/) - A timeline of major events for Stack Exchange and Stack Overflow.
